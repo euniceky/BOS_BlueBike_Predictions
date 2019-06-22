@@ -1,7 +1,5 @@
-# BOS_BlueBike_Predictions
+# BOS_Bluebikes_Predictions
 
-This project aims to prodivde useful insights on Boston bike-share system, BlueBike. 
-
-With the weather and academic seasons taken into account, we predict when and which docking stations are prone to be low on inventory. We also propose suitable locations for future bike docking stations near the Orange and Blue subway lines.
+Bluebikes is a continuously growing bike share system serving Boston and the four nearby cities, Somerville, Cambridge, Brookline, and Everett. Our goal is to recommend sensible locations for new Bluebikes stations for their future expansion. 
 
 We will make Python codes written in Jupyter notebook available as the project progresses. 
