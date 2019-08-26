@@ -4,7 +4,7 @@ Bluebikes is a continuously growing bike share system serving Boston and the fou
 
 In "clean_process_triphistory.ipynb", Bluebikes trip history from August 2017 to July 2019 is aggregated to compute the average number of trips per month per existing bike station. 
 
-In "clean_process_metrostation.ipynb", we obtain the coordinates of MBTA stations (not including the Silver line or the Mattapan Trolley) and label each station to which line it belongs. 
+In "clean_process_metrostation.ipynb", we obtain the coordinates of MBTA stations (not including the stations on the Silver line or the Mattapan Trolley) and label each station to which line it belongs. 
 
 In "clean_process_bikestation.ipynb", we read in live station data from https://member.bluebikes.com/data/stations.json and group stations into 7 zones: downtown Boston, East Boston, West Boston, South Boston, Cambridge, Somerville, and Everett.
 A few things to note: 
