@@ -2,7 +2,7 @@
 
 Bluebikes is a continuously growing bike share system serving Boston and the four nearby cities, Somerville, Cambridge, Brookline, and Everett. Our goal is to recommend sensible locations for new Bluebikes stations for their future expansion. 
 
-In "clean_process_triphistory.ipynb", Bluebikes trip history from August 2017 to July 2019 is aggregated to compute the average number of trips per month per existing bike station. 
+In [clean_process_triphistory.ipynb](https://github.com/euniceky/BOS_BlueBike_Predictions/blob/master/clean_process_bikestation.ipynb), Bluebikes trip history from August 2017 to July 2019 is aggregated to compute the average number of trips per month per existing bike station. 
 
 In "clean_process_metrostation.ipynb", we obtain the coordinates of MBTA stations (not including the stations on the Silver line or the Mattapan Trolley) and label each station to which line it belongs. 
 
