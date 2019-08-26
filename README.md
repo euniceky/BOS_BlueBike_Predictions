@@ -20,7 +20,8 @@ The 5-fold validation score is 76.4%.
 
 In [predict_new_bike_stations.ipynb](https://github.com/euniceky/BOS_BlueBike_Predictions/blob/master/predict_new_bike_stations.ipynb), we update the dataset MBTA station to include 6 new metro stations that are part of Green line extension project spanning Cambridge, Somerville, and Medford scheduled for completion in 2021. For more information, visit https://www.mass.gov/info-details/about-the-green-line-extension-project. 
 
-We are able to recommend 21 new bike station locations. These are the locations <br /> 1. where the current bike station density near them is relatively low, <br /> 2. near the current bike stations which often experience shortage of bikes,<br /> 3. where the user volume prediction is high. 
+We are able to recommend 21 new bike station locations. These are the locations where <br /> 1. the user volume prediction is high,
+<br /> 2. the current bike station density near them is relatively low, <br /> 3. existing nearby bike stations often experience shortage of bikes.
 
 Geospatial figures are included in "predict_new_bike_stations.ipynb".  
 
