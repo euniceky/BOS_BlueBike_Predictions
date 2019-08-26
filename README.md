@@ -22,5 +22,5 @@ In "predict_new_bike_stations.ipynb", we update the dataset MBTA station to incl
 
 We were able to recommend 21 new bike station locations. These are the locations <br /> 1. where the current bike station density is not too high, <br /> 2. near the current bike stations which often have shortage of bikes,<br /> 3. where the user volume prediction is high. 
 
-The visual map is included in "predict_new_bike_stations.ipynb".  
+Geospatial figures are included in "predict_new_bike_stations.ipynb".  
 
