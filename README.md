@@ -14,9 +14,7 @@ A few things to note: <br />
 
 In [model_train.ipynb](https://github.com/euniceky/BOS_BlueBike_Predictions/blob/master/model_train.ipynb), Linear Regression model, Random Forest Regressor, Gradient Boost Regressor, and Sequential Neural Network models are explored. 
 
-Among them the best model is the Graident Boost Regressor which has the test score (R^2 score) 81.7%. 
-
-The 5-fold validation score is 76.4%. 
+Among them the best model is the Graident Boost Regressor which has the test score (R^2 score) 81.7% and the validation score 76.4%. 
 
 In [predict_new_bike_stations.ipynb](https://github.com/euniceky/BOS_BlueBike_Predictions/blob/master/predict_new_bike_stations.ipynb), we update the dataset MBTA station to include 6 new metro stations that are part of Green line extension project spanning Cambridge, Somerville, and Medford scheduled for completion in 2021. For more information, visit https://www.mass.gov/info-details/about-the-green-line-extension-project. 
 
