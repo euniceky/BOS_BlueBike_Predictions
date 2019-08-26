@@ -12,15 +12,15 @@ A few things to note: <br />
 -West Boston includes Allston, Brighton, Brookline.<br />
 -Here, South Boston means the residential part of Boston and DOES NOT mean the "South Boston in the city".
 
-In "model_train.ipynb", Linear Regression model, Random Forest Regressor, Gradient Boost Regressor, and Sequential Neural Network models were explored. 
+In "model_train.ipynb", Linear Regression model, Random Forest Regressor, Gradient Boost Regressor, and Sequential Neural Network models are explored. 
 
-Among them the best model was the Graident Boost Regressor with the test score (R^2 score) 81.7%. 
+Among them the best model is the Graident Boost Regressor with the test score (R^2 score) 81.7%. 
 
 The 5-fold validation score is 76.4%. 
 
 In "predict_new_bike_stations.ipynb", we update the dataset MBTA station to include 6 new metro stations that are part of Green line extension project spanning Cambridge, Somerville, and Medford scheduled for completion in 2021. For more information, visit https://www.mass.gov/info-details/about-the-green-line-extension-project. 
 
-We were able to recommend 21 new bike station locations. These are the locations <br /> 1. where the current bike station density is not too high, <br /> 2. near the current bike stations which often have shortage of bikes,<br /> 3. where the user volume prediction is high. 
+We are able to recommend 21 new bike station locations. These are the locations <br /> 1. where the current bike station density is not too high, <br /> 2. near the current bike stations which often have shortage of bikes,<br /> 3. where the user volume prediction is high. 
 
 Geospatial figures are included in "predict_new_bike_stations.ipynb".  
 
