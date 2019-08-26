@@ -14,7 +14,7 @@ A few things to note: <br />
 
 In [model_train.ipynb](https://github.com/euniceky/BOS_BlueBike_Predictions/blob/master/model_train.ipynb), Linear Regression model, Random Forest Regressor, Gradient Boost Regressor, and Sequential Neural Network models are explored. 
 
-Among them the best model is the Graident Boost Regressor with the test score (R^2 score) 81.7%. 
+Among them the best model is the Graident Boost Regressor which has the test score (R^2 score) 81.7%. 
 
 The 5-fold validation score is 76.4%. 
 
