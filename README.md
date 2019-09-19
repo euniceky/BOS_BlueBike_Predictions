@@ -12,7 +12,7 @@ A few things to note: <br />
 -West Boston includes Allston, Brighton, Brookline.<br />
 -Here, South Boston means the residential part of Boston and DOES NOT mean the "South Boston in the city".
 
-In [model_train.ipynb](https://github.com/euniceky/BOS_BlueBike_Predictions/blob/master/model_train.ipynb), Linear Regression model, Random Forest Regressor, Gradient Boost Regressor, and Sequential Neural Network models are explored. 
+In [model_train.ipynb](https://github.com/euniceky/BOS_BlueBike_Predictions/blob/master/model_train.ipynb), Linear Regression model, Random Forest Regressor, Gradient Boost Regressor, and Neural Network models are explored. 
 
 Among them the best model is the Graident Boost Regressor which has the test score (R^2 score) 81.7% and the validation score 76.4%. 
 
